@@ -69,6 +69,6 @@
   ![Song_Queue](https://github.com/ayushasati/MUZIK/assets/98347325/c38183a0-2774-4339-97fb-1d0a2d2f29a9)
 
    <li>Songs_lists</li> 
-      
-      <br>
-   ![Songs_List](https://github.com/ayushasati/MUZIK/assets/98347325/ebd7453b-f815-46c0-a2da-d0dd731376a4)
+    <br>
+    
+  ![Songs_List](https://github.com/ayushasati/MUZIK/assets/98347325/ebd7453b-f815-46c0-a2da-d0dd731376a4)
