@@ -61,12 +61,14 @@
 
       ![Settings](https://github.com/ayushasati/MUZIK/assets/98347325/bda068ff-dbe6-4946-a7b2-92203b5d07f3)
 <br>
+
 <li> Next Song
   <br>
   
       ![Song_Queue](https://github.com/ayushasati/MUZIK/assets/98347325/c38183a0-2774-4339-97fb-1d0a2d2f29a9)
 
       <br>
+      
       <li> Songs Lists
       
       <br>
